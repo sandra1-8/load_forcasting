@@ -98,16 +98,7 @@ Source: Open Power System Data (OPSD)
 * Compare cross-country generalization
 
 
-
----
-
-## 👥 Team
-
-(Add your names here)
-
----
-
-## 🚀 Goal
+## Goal
 
 Build a robust and scalable electricity load forecasting framework and analyze trade-offs between:
 
